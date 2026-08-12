@@ -1,5 +1,6 @@
 0.uk.pool.ntp.org
 1.uk.pool.ntp.org
+18.154.84.121
 aan.amazon-adsystem.com
 aan.amazon.co.uk
 aan.amazon.com
@@ -46,7 +47,6 @@ billysmith.org
 bin.entware.ch
 bin.entware.com
 bin.entware.net
-bitbucket.org
 biurko.cyou
 biuro-detektywi.eu
 biuro-ruchu-drogowego.waw.pl
@@ -73,6 +73,7 @@ c.paypal.com
 c6.paypal.com
 cc-api-data.adobe.i
 cdn.staticneo.com
+checkout.stripe.com
 chrome.google.com
 cid.samba.tv
 clarium.global.ssl.fastly.net
@@ -156,6 +157,7 @@ images.paypal.com
 imdb.com
 improving.duckduckgo.com
 incoming.telemetry.mozilla.org
+investorzone.wealthtime.com
 ipapi.co
 ipdeny.com
 iplists.firehol.org
@@ -212,6 +214,7 @@ oscp.int-x3.letsencypt.org
 otx.alienvault.com
 p.s.360.cn
 pagead2.googlesyndication.com
+paramountplus.com
 paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
@@ -283,6 +286,7 @@ s3ms.com
 samsung-offers.claims
 sandbox.paypal.com
 scribe.logs.roku.com
+secure.novia-financial.co.uk
 settings.crashlytics.com
 shopto.net
 showtv.pl
