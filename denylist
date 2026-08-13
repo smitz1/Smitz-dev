@@ -1,3 +1,12 @@
+!
+! Title: Billy's DNS Blocklist
+! Description: This Blocklist was taken from diversion whick was running for several years
+! Version: 1.0.0.13
+! Homepage: https://raw.githubusercontent.com/smitz1/Smitz-dev/refs/heads/main/denylist
+! Last modified: 2026-08-13T14:51:16.644Z
+!
+! Compiled by Me
+!
 ||15.taboola.com^
 ||adcm.yagoo.vom^
 ||ads-api.tiktok,com^
