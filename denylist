@@ -5,7 +5,7 @@
 ||ads-sg.tiktok.com^
 ||ads.doubleclick.net^
 ||ads.pinterest.com^
-||ads.sg.ticktok.com^
+||ads-sg.ticktok.com^
 ||ads.tiktok.com^
 ||ads.youtube.com^
 ||adserver.adtechus.com^
@@ -13,6 +13,7 @@
 ||adtago.s3.amazomaws.com^
 ||adtech.yahooinc.com^
 ||advice-ads.s3.amazomaws.com^
+||an.facebook.com^
 ||analytics.api.samsunghealthcn.com^
 ||analytics.query.yahoo.com^
 ||analytics.s3.amazomaws.com^
@@ -30,7 +31,7 @@
 ||books.analytics-events.apple.com^
 ||browser-intake-datadoghq.com^
 ||browser.sentry-cdn.com^
-||business-api.ticktock.com^
+||business-api.tiktock.com^
 ||business-api.tiktok.com^
 ||c2.taboola.com^
 ||cdn.cookielaw.org^
@@ -75,6 +76,7 @@
 ||notes-analytics-events.apple.com^
 ||notify.bugsnag.com^
 ||pagead2.googlesyndication.com^
+||partnerads.ysm.yahoo.com^
 ||platform.cid.samba.tv^
 ||popup.taboola.com^
 ||priorato.org^
