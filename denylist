@@ -1,13 +1,11 @@
 ||15.taboola.com
 ||adcm.yagoo.vom
 ||ads-api.tiktok,com
-||ads-api.tiktok.com
 ||ads-api.twitter.com
 ||ads-sg.tiktok.com
 ||ads.doubleclick.net
 ||ads.pinterest.com
 ||ads.sg.ticktok.com
-||ads.ticktop.com
 ||ads.tiktok.com
 ||ads.youtube.com
 ||adserver.adtechus.com
@@ -18,8 +16,6 @@
 ||analytics.api.samsunghealthcn.com
 ||analytics.query.yahoo.com
 ||analytics.s3.amazomaws.com
-||analytics.s3.amazonaws.com
-||analyticsengin.s3.amazomaws.com
 ||analyticsengine.s3.amazonaws.com
 ||api-adservice.apple.com
 ||api-s2s.taboola.com
