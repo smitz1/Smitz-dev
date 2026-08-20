@@ -12,7 +12,6 @@
 ||ads-api.tiktok,com^
 ||ads-api.twitter.com^
 ||ads-sg.tiktok.com^
-||ads.doubleclick.net^
 ||ads.pinterest.com^
 ||ads-sg.ticktok.com^
 ||ads.tiktok.com^
@@ -76,8 +75,6 @@
 ||logs.fc.yahoo.com^
 ||logservice.hicloud.com^
 ||doubleclick.net^
-||m.doubleclick.net^
-||mediaadvisor.doubleclick.net^
 ||metrics.apple.com^
 ||metrics.data.hicloud.com^
 ||metrics.mzstatic.com^
@@ -85,14 +82,14 @@
 ||metrika.yandex.ru^
 ||notes-analytics-events.apple.com^
 ||notify.bugsnag.com^
-||pagead2.googlesyndication.com^
+||googlesyndication.com^
 ||partnerads.ysm.yahoo.com^
 ||platform.cid.samba.tv^
 ||popup.taboola.com^
 ||priorato.org^
 ||samba.tv^
 ||samsungads.com^
-||sats.g.doublclick.net^
+||doublclick.net^
 ||sdk.ad.intl.xiaomi.com^
 ||sdlconfig.ad.xiaomi.com^
 ||sessions.bugsnag.com^
